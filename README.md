@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Paritosh Sahni 👋
 
-<!--
-**Paritosh7/paritosh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer with a strong frontend foundation, passionate about building scalable, intuitive, and performant web applications. I enjoy designing thoughtful user experiences and implementing robust backend systems that power real-world solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Do
+
+- 🔧 Develop full-stack web applications using **React**, **Next.js**, **Python**, **Django**, and **Node.js**
+- ⚙️ Build resilient backend systems with **Django Rest Framework**, **Celery**, **RabbitMQ**, and **PostgreSQL**
+- 🌍 Create GIS-based tools using **Leaflet.js** to visualise and optimise logistics operations
+- 🚀 Improve developer workflows with **CI/CD pipelines**, **Docker**, and cloud infrastructure on **AWS/GCP**
+
+---
+
+### 📌 Recent Highlights
+
+- 🗺️ Built **Polymapper**, a ‘nearest facility predictor’ used across 4,000+ warehouses to reduce late deliveries by 18%
+- 📦 Led migration of critical systems from Angular to React, improving dev speed and maintainability
+- ⚡ Designed an automated dispatch system that improved distribution efficiency by 30%
+- 🧪 Strengthened testing with **Jest**, **Cypress**, and real-time UAT environments
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+`JavaScript` `TypeScript` `Python` `C++` `Java`
+
+**Frameworks & Libraries**  
+`React` `Next.js` `Django` `Flask` `Node.js` `Redux` `TailwindCSS` `Tanstack Query` `Leaflet.js`
+
+**Databases & Queues**  
+`PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Elasticsearch`
+
+**DevOps & Tools**  
+`Docker` `GitHub Actions` `Jenkins` `GCP` `AWS` `Linux` `CI/CD`
+
+---
+
+### 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/paritoshsahni)
+- 📧 [paritosh7.sahni@gmail.com](mailto:paritosh7.sahni@gmail.com)
+
+---
+
+### 📌 Currently
+
+🔍 Looking for full-time roles in **Full Stack / Frontend Development**  
+📚 Finished my MSc in Advanced Computer Science at **University of Liverpool**
+
+---
+
+### ⚡ Fun Fact
+
+I love clean, well-structured code — but I also enjoy exploring messy real-world systems and untangling them for better performance and scalability.
+
