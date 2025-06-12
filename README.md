@@ -2,6 +2,8 @@
 
 I'm a Full-Stack Developer with a strong frontend foundation, passionate about building scalable, intuitive, and performant web applications. I enjoy designing thoughtful user experiences and implementing robust backend systems that power real-world solutions.
 
+🌐 [Personal Website](https://personal-website-nu-mauve.vercel.app/)
+
 ---
 
 ### 💼 What I Do
@@ -49,6 +51,7 @@ I'm a Full-Stack Developer with a strong frontend foundation, passionate about b
 
 🔍 Looking for full-time roles in **Full Stack / Frontend Development**  
 📚 Finished my MSc in Advanced Computer Science at **University of Liverpool**
+🛠️ Currently working on (Delta Dash)[Implementing Tanstack query] and my (portfolio)[https://personal-website-ij93wx7i1-paritosh7s-projects.vercel.app/]
 
 ---
 
