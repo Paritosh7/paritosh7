@@ -17,7 +17,7 @@ I'm a Software Developer with a strong frontend foundation, passionate about bui
 
 ### 📌 Recent Highlights
 
-- 🗺️ Built **Polymapper**, a ‘nearest facility predictor’ used across 4,000+ warehouses to reduce late deliveries by 18%
+- 🗺️ Built **Polymapper**, a ‘nearest facility predictor’ used across Delhivery's warehouses to reduce late deliveries by 18%
 - 📦 Led migration of critical systems from Angular to React, improving dev speed and maintainability
 - ⚡ Designed an automated dispatch system that improved distribution efficiency by 30%
 - 🧪 Strengthened testing with **Jest**, **Cypress**, and real-time UAT environments
