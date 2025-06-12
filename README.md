@@ -52,7 +52,9 @@ I'm a Full-Stack Developer with a strong frontend foundation, passionate about b
 🔍 Looking for full-time roles in **Full Stack / Frontend Development**  
 📚 Finished my MSc in Advanced Computer Science at **University of Liverpool**
 
-🛠️ Currently working on (delta dash)[https://github.com/Paritosh7/delta-dash] and my (portfolio)[https://github.com/Paritosh7/personal-website]
+  🛠️ Working on
+  - [Delta Dash](https://github.com/yashsoni27/delta-dash) 
+  - [Portfolio](https://github.com/Paritosh7/personal-website)
 
 ---
 
