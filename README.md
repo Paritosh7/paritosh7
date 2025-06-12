@@ -51,11 +51,13 @@ I'm a Full-Stack Developer with a strong frontend foundation, passionate about b
 
 🔍 Looking for full-time roles in **Full Stack / Frontend Development**  
 📚 Finished my MSc in Advanced Computer Science at **University of Liverpool**
-🛠️ Currently working on (delta dash)[https://deltadash-pink.vercel.app/] and my (portfolio)[https://personal-website-ij93wx7i1-paritosh7s-projects.vercel.app/]
+
+🛠️ Currently working on (delta dash)[https://github.com/Paritosh7/delta-dash] and my (portfolio)[https://github.com/Paritosh7/personal-website]
 
 ---
 
 ### ⚡ Fun Fact
 
-I love clean, well-structured code — but I also enjoy exploring messy real-world systems and untangling them for better performance and scalability.
+I'm a music lover who's professionally followed music for years, and I’ve also played badminton competitively. When I’m not coding, you’ll likely find me exploring playlists or hitting smashes on the court.
+
 
