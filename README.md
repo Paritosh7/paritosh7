@@ -1,6 +1,6 @@
 # Hi, I'm Paritosh Sahni 👋
 
-I'm a Full-Stack Developer with a strong frontend foundation, passionate about building scalable, intuitive, and performant web applications. I enjoy designing thoughtful user experiences and implementing robust backend systems that power real-world solutions.
+I'm a Software Developer with a strong frontend foundation, passionate about building scalable, intuitive, and performant web applications. I enjoy designing thoughtful user experiences and implementing robust backend systems that power real-world solutions.
 
 🌐 [Personal Website](https://personal-website-nu-mauve.vercel.app/)
 
